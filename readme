@@ -1,0 +1,11 @@
+for today assigment we are creating a website that has a code quiuz.
+the html file contains the id's that I used to modify the page.
+second i created a style.css file to make the website visually appeling in a way that
+people with visual difuculty could see it.
+then I creatrd a javaScript to modify the index html file.
+I create a timer and made it available for the user to see it.
+I used Js to create a quiz were if the user enter the wrong answer they will be penalize.
+for each wrong answer they loose 1 second.
+I set the quiz to be over once all questions are answer or the time is over.
+when the time is over the user will be presentrd with a box to let him insert their names
+and see their score

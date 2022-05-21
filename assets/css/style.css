@@ -1,0 +1,22 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+color: rgb(0, 0, 0);
+display: inline-block;
+position: relative;
+margin-left: 520px;
+font-size: 40px;
+font-family: 'Times New Roman', Times, serif;
+color: rgb(0, 230, 230);
+background-color: rgb(2, 1, 2);
+padding: 10px 30px 10px 10px;
+border-radius: 4px;
+}
+form{
+    display: none;
+}
+#endscreen{
+    display: none;
+}
